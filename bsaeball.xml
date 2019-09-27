@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FEED NAME="BettingOffers2" DESCRIPTION="All current betting offers for the given kind of sports" LAST_REFRESH="2017-05-18T15:10:03" NEXT_REFRESH="2017-05-18T16:10:03" LANGUAGE="EN">
+  <KINDOFSPORT NAME="Baseball">
+    <LEAGUE NAME="Mexico LMB" ID="406176">
+      <EVENT NAME="Acereros de Monclova - Tigres de Quintana Roo" SHORTNAME="Acereros - Tigres d" START_TIME="2017-05-19T02:30:00" OPEN_TILL="2017-05-19T02:30:00" EVENTID="10808495">
+        <BET ID="135598676" TYPEID="13" TYPENAME="Match" PLAYER1="Acereros de Monclova " PLAYER1_SHORT="Acereros " PLAYER2="Tigres de Quintana Roo" PLAYER2_SHORT="Tigres d" TIP="1" QUOTE="1,70" />
+        <BET ID="135598677" TYPEID="13" TYPENAME="Match" PLAYER1="Acereros de Monclova " PLAYER1_SHORT="Acereros " PLAYER2="Tigres de Quintana Roo" PLAYER2_SHORT="Tigres d" TIP="2" QUOTE="2,05" />
+        <BET ID="135598670" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Acereros de Monclova - Tigres de Quintana Roo" PLAYER1_SHORT="Acereros - Tigres d" PLAYER2="Over 11.5" PLAYER2_SHORT="Over 11.5" TIP=" " QUOTE="2,55" />
+        <BET ID="135598671" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Acereros de Monclova - Tigres de Quintana Roo" PLAYER1_SHORT="Acereros - Tigres d" PLAYER2="Over 7.5" PLAYER2_SHORT="Over 7.5" TIP=" " QUOTE="1,40" />
+        <BET ID="135598672" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Acereros de Monclova - Tigres de Quintana Roo" PLAYER1_SHORT="Acereros - Tigres d" PLAYER2="Over 9.5" PLAYER2_SHORT="Over 9.5" TIP=" " QUOTE="1,85" />
+        <BET ID="135598673" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Acereros de Monclova - Tigres de Quintana Roo" PLAYER1_SHORT="Acereros - Tigres d" PLAYER2="Under 11.5" PLAYER2_SHORT="Under 11.5" TIP=" " QUOTE="1,40" />
+        <BET ID="135598674" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Acereros de Monclova - Tigres de Quintana Roo" PLAYER1_SHORT="Acereros - Tigres d" PLAYER2="Under 7.5" PLAYER2_SHORT="Under 7.5" TIP=" " QUOTE="2,60" />
+        <BET ID="135598675" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Acereros de Monclova - Tigres de Quintana Roo" PLAYER1_SHORT="Acereros - Tigres d" PLAYER2="Under 9.5" PLAYER2_SHORT="Under 9.5" TIP=" " QUOTE="1,80" />
+      </EVENT>
+      <EVENT NAME="Diablos Rojos Del Mexico - Broncos de Reynosa" SHORTNAME="Diablos  - Broncos " START_TIME="2017-05-19T02:00:00" OPEN_TILL="2017-05-19T02:00:00" EVENTID="10808490">
+        <BET ID="135598620" TYPEID="13" TYPENAME="Match" PLAYER1="Diablos Rojos Del Mexico " PLAYER1_SHORT="Diablos  " PLAYER2="Broncos de Reynosa" PLAYER2_SHORT="Broncos" TIP="1" QUOTE="1,50" />
+        <BET ID="135598621" TYPEID="13" TYPENAME="Match" PLAYER1="Diablos Rojos Del Mexico " PLAYER1_SHORT="Diablos  " PLAYER2="Broncos de Reynosa" PLAYER2_SHORT="Broncos" TIP="2" QUOTE="2,40" />
+        <BET ID="135598614" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Diablos Rojos Del Mexico - Broncos de Reynosa" PLAYER1_SHORT="Diablos  - Broncos " PLAYER2="Over 11.5" PLAYER2_SHORT="Over 11.5" TIP=" " QUOTE="1,80" />
+        <BET ID="135598615" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Diablos Rojos Del Mexico - Broncos de Reynosa" PLAYER1_SHORT="Diablos  - Broncos " PLAYER2="Over 13.5" PLAYER2_SHORT="Over 13.5" TIP=" " QUOTE="2,40" />
+        <BET ID="135598616" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Diablos Rojos Del Mexico - Broncos de Reynosa" PLAYER1_SHORT="Diablos  - Broncos " PLAYER2="Over 9.5" PLAYER2_SHORT="Over 9.5" TIP=" " QUOTE="1,40" />
+        <BET ID="135598617" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Diablos Rojos Del Mexico - Broncos de Reynosa" PLAYER1_SHORT="Diablos  - Broncos " PLAYER2="Under 11.5" PLAYER2_SHORT="Under 11.5" TIP=" " QUOTE="1,85" />
+        <BET ID="135598618" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Diablos Rojos Del Mexico - Broncos de Reynosa" PLAYER1_SHORT="Diablos  - Broncos " PLAYER2="Under 13.5" PLAYER2_SHORT="Under 13.5" TIP=" " QUOTE="1,45" />
+        <BET ID="135598619" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Diablos Rojos Del Mexico - Broncos de Reynosa" PLAYER1_SHORT="Diablos  - Broncos " PLAYER2="Under 9.5" PLAYER2_SHORT="Under 9.5" TIP=" " QUOTE="2,55" />
+      </EVENT>
+      <EVENT NAME="Guerreros de Oaxaca - Vaqueros de La Laguna" SHORTNAME="Guerrero - Vaqueros" START_TIME="2017-05-19T02:00:00" OPEN_TILL="2017-05-19T02:00:00" EVENTID="10808491">
+        <BET ID="135598634" TYPEID="13" TYPENAME="Match" PLAYER1="Guerreros de Oaxaca " PLAYER1_SHORT="Guerrero " PLAYER2="Vaqueros de La Laguna" PLAYER2_SHORT="Vaqueros" TIP="1" QUOTE="2,05" />
+        <BET ID="135598635" TYPEID="13" TYPENAME="Match" PLAYER1="Guerreros de Oaxaca " PLAYER1_SHORT="Guerrero " PLAYER2="Vaqueros de La Laguna" PLAYER2_SHORT="Vaqueros" TIP="2" QUOTE="1,70" />
+        <BET ID="135598628" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Guerreros de Oaxaca - Vaqueros de La Laguna" PLAYER1_SHORT="Guerrero - Vaqueros" PLAYER2="Over 11.5" PLAYER2_SHORT="Over 11.5" TIP=" " QUOTE="2,35" />
+        <BET ID="135598629" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Guerreros de Oaxaca - Vaqueros de La Laguna" PLAYER1_SHORT="Guerrero - Vaqueros" PLAYER2="Over 7.5" PLAYER2_SHORT="Over 7.5" TIP=" " QUOTE="1,30" />
+        <BET ID="135598630" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Guerreros de Oaxaca - Vaqueros de La Laguna" PLAYER1_SHORT="Guerrero - Vaqueros" PLAYER2="Over 9.5" PLAYER2_SHORT="Over 9.5" TIP=" " QUOTE="1,70" />
+        <BET ID="135598631" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Guerreros de Oaxaca - Vaqueros de La Laguna" PLAYER1_SHORT="Guerrero - Vaqueros" PLAYER2="Under 11.5" PLAYER2_SHORT="Under 11.5" TIP=" " QUOTE="1,45" />
+        <BET ID="135598632" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Guerreros de Oaxaca - Vaqueros de La Laguna" PLAYER1_SHORT="Guerrero - Vaqueros" PLAYER2="Under 7.5" PLAYER2_SHORT="Under 7.5" TIP=" " QUOTE="2,85" />
+        <BET ID="135598633" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Guerreros de Oaxaca - Vaqueros de La Laguna" PLAYER1_SHORT="Guerrero - Vaqueros" PLAYER2="Under 9.5" PLAYER2_SHORT="Under 9.5" TIP=" " QUOTE="1,95" />
+      </EVENT>
+      <EVENT NAME="Olmecas de Tabasco - Rieleros de Aguascalientes" SHORTNAME="Olmecas  - Rieleros" START_TIME="2017-05-19T03:00:00" OPEN_TILL="2017-05-19T03:00:00" EVENTID="10808497">
+        <BET ID="135598690" TYPEID="13" TYPENAME="Match" PLAYER1="Olmecas de Tabasco " PLAYER1_SHORT="Olmecas  " PLAYER2="Rieleros de Aguascalientes" PLAYER2_SHORT="Rieleros" TIP="1" QUOTE="1,90" />
+        <BET ID="135598691" TYPEID="13" TYPENAME="Match" PLAYER1="Olmecas de Tabasco " PLAYER1_SHORT="Olmecas  " PLAYER2="Rieleros de Aguascalientes" PLAYER2_SHORT="Rieleros" TIP="2" QUOTE="1,80" />
+        <BET ID="135598684" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Olmecas de Tabasco - Rieleros de Aguascalientes" PLAYER1_SHORT="Olmecas  - Rieleros" PLAYER2="Over 11.5" PLAYER2_SHORT="Over 11.5" TIP=" " QUOTE="2,55" />
+        <BET ID="135598685" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Olmecas de Tabasco - Rieleros de Aguascalientes" PLAYER1_SHORT="Olmecas  - Rieleros" PLAYER2="Over 7.5" PLAYER2_SHORT="Over 7.5" TIP=" " QUOTE="1,35" />
+        <BET ID="135598686" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Olmecas de Tabasco - Rieleros de Aguascalientes" PLAYER1_SHORT="Olmecas  - Rieleros" PLAYER2="Over 9.5" PLAYER2_SHORT="Over 9.5" TIP=" " QUOTE="1,85" />
+        <BET ID="135598687" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Olmecas de Tabasco - Rieleros de Aguascalientes" PLAYER1_SHORT="Olmecas  - Rieleros" PLAYER2="Under 11.5" PLAYER2_SHORT="Under 11.5" TIP=" " QUOTE="1,40" />
+        <BET ID="135598688" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Olmecas de Tabasco - Rieleros de Aguascalientes" PLAYER1_SHORT="Olmecas  - Rieleros" PLAYER2="Under 7.5" PLAYER2_SHORT="Under 7.5" TIP=" " QUOTE="2,65" />
+        <BET ID="135598689" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Olmecas de Tabasco - Rieleros de Aguascalientes" PLAYER1_SHORT="Olmecas  - Rieleros" PLAYER2="Under 9.5" PLAYER2_SHORT="Under 9.5" TIP=" " QUOTE="1,80" />
+      </EVENT>
+      <EVENT NAME="Rojos Del Aguila de Veracruz - Generales De Durango" SHORTNAME="Rojos De - Generale" START_TIME="2017-05-19T02:30:00" OPEN_TILL="2017-05-19T02:30:00" EVENTID="10808494">
+        <BET ID="135598662" TYPEID="13" TYPENAME="Match" PLAYER1="Rojos Del Aguila de Veracruz " PLAYER1_SHORT="Rojos De " PLAYER2="Generales De Durango" PLAYER2_SHORT="Generale" TIP="1" QUOTE="1,70" />
+        <BET ID="135598663" TYPEID="13" TYPENAME="Match" PLAYER1="Rojos Del Aguila de Veracruz " PLAYER1_SHORT="Rojos De " PLAYER2="Generales De Durango" PLAYER2_SHORT="Generale" TIP="2" QUOTE="2,05" />
+        <BET ID="135598656" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Rojos Del Aguila de Veracruz - Generales De Durango" PLAYER1_SHORT="Rojos De - Generale" PLAYER2="Over 11.5" PLAYER2_SHORT="Over 11.5" TIP=" " QUOTE="2,55" />
+        <BET ID="135598657" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Rojos Del Aguila de Veracruz - Generales De Durango" PLAYER1_SHORT="Rojos De - Generale" PLAYER2="Over 7.5" PLAYER2_SHORT="Over 7.5" TIP=" " QUOTE="1,40" />
+        <BET ID="135598658" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Rojos Del Aguila de Veracruz - Generales De Durango" PLAYER1_SHORT="Rojos De - Generale" PLAYER2="Over 9.5" PLAYER2_SHORT="Over 9.5" TIP=" " QUOTE="1,85" />
+        <BET ID="135598659" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Rojos Del Aguila de Veracruz - Generales De Durango" PLAYER1_SHORT="Rojos De - Generale" PLAYER2="Under 11.5" PLAYER2_SHORT="Under 11.5" TIP=" " QUOTE="1,40" />
+        <BET ID="135598660" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Rojos Del Aguila de Veracruz - Generales De Durango" PLAYER1_SHORT="Rojos De - Generale" PLAYER2="Under 7.5" PLAYER2_SHORT="Under 7.5" TIP=" " QUOTE="2,60" />
+        <BET ID="135598661" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Rojos Del Aguila de Veracruz - Generales De Durango" PLAYER1_SHORT="Rojos De - Generale" PLAYER2="Under 9.5" PLAYER2_SHORT="Under 9.5" TIP=" " QUOTE="1,80" />
+      </EVENT>
+      <EVENT NAME="Sultanes de Monterrey - Leones de Yucatan" SHORTNAME="Sultanes - Leones d" START_TIME="2017-05-19T01:00:00" OPEN_TILL="2017-05-19T01:00:00" EVENTID="10808492">
+        <BET ID="135598648" TYPEID="13" TYPENAME="Match" PLAYER1="Sultanes de Monterrey " PLAYER1_SHORT="Sultanes " PLAYER2="Leones de Yucatan" PLAYER2_SHORT="Leones d" TIP="1" QUOTE="1,60" />
+        <BET ID="135598649" TYPEID="13" TYPENAME="Match" PLAYER1="Sultanes de Monterrey " PLAYER1_SHORT="Sultanes " PLAYER2="Leones de Yucatan" PLAYER2_SHORT="Leones d" TIP="2" QUOTE="2,15" />
+        <BET ID="135598642" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Sultanes de Monterrey - Leones de Yucatan" PLAYER1_SHORT="Sultanes - Leones d" PLAYER2="Over 10.5" PLAYER2_SHORT="Over 10.5" TIP=" " QUOTE="2,60" />
+        <BET ID="135598643" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Sultanes de Monterrey - Leones de Yucatan" PLAYER1_SHORT="Sultanes - Leones d" PLAYER2="Over 6.5" PLAYER2_SHORT="Over 6.5" TIP=" " QUOTE="1,35" />
+        <BET ID="135598644" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Sultanes de Monterrey - Leones de Yucatan" PLAYER1_SHORT="Sultanes - Leones d" PLAYER2="Over 8.5" PLAYER2_SHORT="Over 8.5" TIP=" " QUOTE="1,80" />
+        <BET ID="135598645" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Sultanes de Monterrey - Leones de Yucatan" PLAYER1_SHORT="Sultanes - Leones d" PLAYER2="Under 10.5" PLAYER2_SHORT="Under 10.5" TIP=" " QUOTE="1,35" />
+        <BET ID="135598646" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Sultanes de Monterrey - Leones de Yucatan" PLAYER1_SHORT="Sultanes - Leones d" PLAYER2="Under 6.5" PLAYER2_SHORT="Under 6.5" TIP=" " QUOTE="2,75" />
+        <BET ID="135598647" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Sultanes de Monterrey - Leones de Yucatan" PLAYER1_SHORT="Sultanes - Leones d" PLAYER2="Under 8.5" PLAYER2_SHORT="Under 8.5" TIP=" " QUOTE="1,80" />
+      </EVENT>
+      <EVENT NAME="Toros De Tijuana - Pericos de Puebla" SHORTNAME="Toros De - Pericos " START_TIME="2017-05-19T04:35:00" OPEN_TILL="2017-05-19T04:35:00" EVENTID="10808504">
+        <BET ID="135598704" TYPEID="13" TYPENAME="Match" PLAYER1="Toros De Tijuana " PLAYER1_SHORT="Toros De " PLAYER2="Pericos de Puebla" PLAYER2_SHORT="Pericos" TIP="1" QUOTE="1,55" />
+        <BET ID="135598705" TYPEID="13" TYPENAME="Match" PLAYER1="Toros De Tijuana " PLAYER1_SHORT="Toros De " PLAYER2="Pericos de Puebla" PLAYER2_SHORT="Pericos" TIP="2" QUOTE="2,30" />
+        <BET ID="135598698" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Toros De Tijuana - Pericos de Puebla" PLAYER1_SHORT="Toros De - Pericos " PLAYER2="Over 11.5" PLAYER2_SHORT="Over 11.5" TIP=" " QUOTE="2,55" />
+        <BET ID="135598699" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Toros De Tijuana - Pericos de Puebla" PLAYER1_SHORT="Toros De - Pericos " PLAYER2="Over 7.5" PLAYER2_SHORT="Over 7.5" TIP=" " QUOTE="1,40" />
+        <BET ID="135598700" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Toros De Tijuana - Pericos de Puebla" PLAYER1_SHORT="Toros De - Pericos " PLAYER2="Over 9.5" PLAYER2_SHORT="Over 9.5" TIP=" " QUOTE="1,85" />
+        <BET ID="135598701" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Toros De Tijuana - Pericos de Puebla" PLAYER1_SHORT="Toros De - Pericos " PLAYER2="Under 11.5" PLAYER2_SHORT="Under 11.5" TIP=" " QUOTE="1,40" />
+        <BET ID="135598702" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Toros De Tijuana - Pericos de Puebla" PLAYER1_SHORT="Toros De - Pericos " PLAYER2="Under 7.5" PLAYER2_SHORT="Under 7.5" TIP=" " QUOTE="2,60" />
+        <BET ID="135598703" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Toros De Tijuana - Pericos de Puebla" PLAYER1_SHORT="Toros De - Pericos " PLAYER2="Under 9.5" PLAYER2_SHORT="Under 9.5" TIP=" " QUOTE="1,80" />
+      </EVENT>
+    </LEAGUE>
+    <LEAGUE NAME="MLB" ID="14233">
+      <EVENT NAME="Atlanta Braves - Toronto Blue Jays" SHORTNAME="Atlanta  - Toronto " START_TIME="2017-05-19T01:35:00" OPEN_TILL="2017-05-19T01:35:00" EVENTID="10808488">
+        <BET ID="135533730" TYPEID="13" TYPENAME="Match" PLAYER1="Atlanta Braves " PLAYER1_SHORT="Atlanta  " PLAYER2="Toronto Blue Jays" PLAYER2_SHORT="Toronto" TIP="1" QUOTE="1,95" />
+        <BET ID="135533731" TYPEID="13" TYPENAME="Match" PLAYER1="Atlanta Braves " PLAYER1_SHORT="Atlanta  " PLAYER2="Toronto Blue Jays" PLAYER2_SHORT="Toronto" TIP="2" QUOTE="1,75" />
+        <BET ID="135536991" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Atlanta Braves - Toronto Blue Jays" PLAYER1_SHORT="Atlanta  - Toronto " PLAYER2="Over 5.5" PLAYER2_SHORT="Over 5.5" TIP=" " QUOTE="1,30" />
+        <BET ID="135536992" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Atlanta Braves - Toronto Blue Jays" PLAYER1_SHORT="Atlanta  - Toronto " PLAYER2="Over 7.5" PLAYER2_SHORT="Over 7.5" TIP=" " QUOTE="1,70" />
+        <BET ID="135536993" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Atlanta Braves - Toronto Blue Jays" PLAYER1_SHORT="Atlanta  - Toronto " PLAYER2="Over 9.5" PLAYER2_SHORT="Over 9.5" TIP=" " QUOTE="2,50" />
+        <BET ID="135536994" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Atlanta Braves - Toronto Blue Jays" PLAYER1_SHORT="Atlanta  - Toronto " PLAYER2="Under 5.5" PLAYER2_SHORT="Under 5.5" TIP=" " QUOTE="3,25" />
+        <BET ID="135536995" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Atlanta Braves - Toronto Blue Jays" PLAYER1_SHORT="Atlanta  - Toronto " PLAYER2="Under 7.5" PLAYER2_SHORT="Under 7.5" TIP=" " QUOTE="2,00" />
+        <BET ID="135536996" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Atlanta Braves - Toronto Blue Jays" PLAYER1_SHORT="Atlanta  - Toronto " PLAYER2="Under 9.5" PLAYER2_SHORT="Under 9.5" TIP=" " QUOTE="1,45" />
+      </EVENT>
+      <EVENT NAME="Chicago Cubs - Cincinnati Reds" SHORTNAME="Chicago  - Cincinna" START_TIME="2017-05-18T20:20:00" OPEN_TILL="2017-05-18T20:20:00" EVENTID="10808397">
+        <BET ID="135533726" TYPEID="13" TYPENAME="Match" PLAYER1="Chicago Cubs " PLAYER1_SHORT="Chicago  " PLAYER2="Cincinnati Reds" PLAYER2_SHORT="Cincinna" TIP="1" QUOTE="1,45" />
+        <BET ID="135533727" TYPEID="13" TYPENAME="Match" PLAYER1="Chicago Cubs " PLAYER1_SHORT="Chicago  " PLAYER2="Cincinnati Reds" PLAYER2_SHORT="Cincinna" TIP="2" QUOTE="2,55" />
+      </EVENT>
+      <EVENT NAME="Detroit Tigers - Baltimore Orioles" SHORTNAME="Detroit  - Baltimor" START_TIME="2017-05-18T19:10:00" OPEN_TILL="2017-05-18T19:10:00" EVENTID="10808346">
+        <BET ID="135533720" TYPEID="13" TYPENAME="Match" PLAYER1="Detroit Tigers " PLAYER1_SHORT="Detroit  " PLAYER2="Baltimore Orioles" PLAYER2_SHORT="Baltimor" TIP="1" QUOTE="2,00" />
+        <BET ID="135533721" TYPEID="13" TYPENAME="Match" PLAYER1="Detroit Tigers " PLAYER1_SHORT="Detroit  " PLAYER2="Baltimore Orioles" PLAYER2_SHORT="Baltimor" TIP="2" QUOTE="1,70" />
+        <BET ID="135538264" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Detroit Tigers - Baltimore Orioles" PLAYER1_SHORT="Detroit  - Baltimor" PLAYER2="Over 10.5" PLAYER2_SHORT="Over 10.5" TIP=" " QUOTE="1,90" />
+        <BET ID="135558175" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Detroit Tigers - Baltimore Orioles" PLAYER1_SHORT="Detroit  - Baltimor" PLAYER2="Over 11.5" PLAYER2_SHORT="Over 11.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135538265" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Detroit Tigers - Baltimore Orioles" PLAYER1_SHORT="Detroit  - Baltimor" PLAYER2="Over 12.5" PLAYER2_SHORT="Over 12.5" TIP=" " QUOTE="2,70" />
+        <BET ID="135558176" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Detroit Tigers - Baltimore Orioles" PLAYER1_SHORT="Detroit  - Baltimor" PLAYER2="Over 7.5" PLAYER2_SHORT="Over 7.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135538266" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Detroit Tigers - Baltimore Orioles" PLAYER1_SHORT="Detroit  - Baltimor" PLAYER2="Over 8.5" PLAYER2_SHORT="Over 8.5" TIP=" " QUOTE="1,45" />
+        <BET ID="135558177" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Detroit Tigers - Baltimore Orioles" PLAYER1_SHORT="Detroit  - Baltimor" PLAYER2="Over 9.5" PLAYER2_SHORT="Over 9.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135538267" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Detroit Tigers - Baltimore Orioles" PLAYER1_SHORT="Detroit  - Baltimor" PLAYER2="Under 10.5" PLAYER2_SHORT="Under 10.5" TIP=" " QUOTE="1,80" />
+        <BET ID="135558178" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Detroit Tigers - Baltimore Orioles" PLAYER1_SHORT="Detroit  - Baltimor" PLAYER2="Under 11.5" PLAYER2_SHORT="Under 11.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135538268" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Detroit Tigers - Baltimore Orioles" PLAYER1_SHORT="Detroit  - Baltimor" PLAYER2="Under 12.5" PLAYER2_SHORT="Under 12.5" TIP=" " QUOTE="1,40" />
+        <BET ID="135558179" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Detroit Tigers - Baltimore Orioles" PLAYER1_SHORT="Detroit  - Baltimor" PLAYER2="Under 7.5" PLAYER2_SHORT="Under 7.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135538269" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Detroit Tigers - Baltimore Orioles" PLAYER1_SHORT="Detroit  - Baltimor" PLAYER2="Under 8.5" PLAYER2_SHORT="Under 8.5" TIP=" " QUOTE="2,55" />
+        <BET ID="135558180" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Detroit Tigers - Baltimore Orioles" PLAYER1_SHORT="Detroit  - Baltimor" PLAYER2="Under 9.5" PLAYER2_SHORT="Under 9.5" TIP=" " QUOTE="-1,00" />
+      </EVENT>
+      <EVENT NAME="Kansas City Royals - New York Yankees" SHORTNAME="Kansas C - New York" START_TIME="2017-05-19T02:15:00" OPEN_TILL="2017-05-19T02:15:00" EVENTID="10808493">
+        <BET ID="135533732" TYPEID="13" TYPENAME="Match" PLAYER1="Kansas City Royals " PLAYER1_SHORT="Kansas C " PLAYER2="New York Yankees" PLAYER2_SHORT="New York" TIP="1" QUOTE="1,95" />
+        <BET ID="135533733" TYPEID="13" TYPENAME="Match" PLAYER1="Kansas City Royals " PLAYER1_SHORT="Kansas C " PLAYER2="New York Yankees" PLAYER2_SHORT="New York" TIP="2" QUOTE="1,75" />
+        <BET ID="135537013" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Kansas City Royals - New York Yankees" PLAYER1_SHORT="Kansas C - New York" PLAYER2="Over 10.5" PLAYER2_SHORT="Over 10.5" TIP=" " QUOTE="2,60" />
+        <BET ID="135537014" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Kansas City Royals - New York Yankees" PLAYER1_SHORT="Kansas C - New York" PLAYER2="Over 6.5" PLAYER2_SHORT="Over 6.5" TIP=" " QUOTE="1,35" />
+        <BET ID="135537015" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Kansas City Royals - New York Yankees" PLAYER1_SHORT="Kansas C - New York" PLAYER2="Over 8.5" PLAYER2_SHORT="Over 8.5" TIP=" " QUOTE="1,75" />
+        <BET ID="135537016" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Kansas City Royals - New York Yankees" PLAYER1_SHORT="Kansas C - New York" PLAYER2="Under 10.5" PLAYER2_SHORT="Under 10.5" TIP=" " QUOTE="1,45" />
+        <BET ID="135537017" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Kansas City Royals - New York Yankees" PLAYER1_SHORT="Kansas C - New York" PLAYER2="Under 6.5" PLAYER2_SHORT="Under 6.5" TIP=" " QUOTE="3,05" />
+        <BET ID="135537018" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Kansas City Royals - New York Yankees" PLAYER1_SHORT="Kansas C - New York" PLAYER2="Under 8.5" PLAYER2_SHORT="Under 8.5" TIP=" " QUOTE="1,95" />
+      </EVENT>
+      <EVENT NAME="Los Angeles Dodgers - Miami Marlins" SHORTNAME="Los Ange - Miami Ma" START_TIME="2017-05-19T04:10:00" OPEN_TILL="2017-05-19T04:10:00" EVENTID="10808500">
+        <BET ID="135533734" TYPEID="13" TYPENAME="Match" PLAYER1="Los Angeles Dodgers " PLAYER1_SHORT="Los Ange " PLAYER2="Miami Marlins" PLAYER2_SHORT="Miami Ma" TIP="1" QUOTE="1,45" />
+        <BET ID="135533735" TYPEID="13" TYPENAME="Match" PLAYER1="Los Angeles Dodgers " PLAYER1_SHORT="Los Ange " PLAYER2="Miami Marlins" PLAYER2_SHORT="Miami Ma" TIP="2" QUOTE="2,50" />
+        <BET ID="135540354" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Los Angeles Dodgers - Miami Marlins" PLAYER1_SHORT="Los Ange - Miami Ma" PLAYER2="Over 10.5" PLAYER2_SHORT="Over 10.5" TIP=" " QUOTE="3,00" />
+        <BET ID="135540355" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Los Angeles Dodgers - Miami Marlins" PLAYER1_SHORT="Los Ange - Miami Ma" PLAYER2="Over 6.5" PLAYER2_SHORT="Over 6.5" TIP=" " QUOTE="1,40" />
+        <BET ID="135540356" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Los Angeles Dodgers - Miami Marlins" PLAYER1_SHORT="Los Ange - Miami Ma" PLAYER2="Over 8.5" PLAYER2_SHORT="Over 8.5" TIP=" " QUOTE="2,00" />
+        <BET ID="135540357" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Los Angeles Dodgers - Miami Marlins" PLAYER1_SHORT="Los Ange - Miami Ma" PLAYER2="Under 10.5" PLAYER2_SHORT="Under 10.5" TIP=" " QUOTE="1,35" />
+        <BET ID="135540358" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Los Angeles Dodgers - Miami Marlins" PLAYER1_SHORT="Los Ange - Miami Ma" PLAYER2="Under 6.5" PLAYER2_SHORT="Under 6.5" TIP=" " QUOTE="2,65" />
+        <BET ID="135540359" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Los Angeles Dodgers - Miami Marlins" PLAYER1_SHORT="Los Ange - Miami Ma" PLAYER2="Under 8.5" PLAYER2_SHORT="Under 8.5" TIP=" " QUOTE="1,75" />
+      </EVENT>
+      <EVENT NAME="Minnesota Twins - Colorado Rockies" SHORTNAME="Minnesot - Colorado" START_TIME="2017-05-18T19:10:00" OPEN_TILL="2017-05-18T19:10:00" EVENTID="10808345">
+        <BET ID="135533722" TYPEID="13" TYPENAME="Match" PLAYER1="Minnesota Twins " PLAYER1_SHORT="Minnesot " PLAYER2="Colorado Rockies" PLAYER2_SHORT="Colorado" TIP="1" QUOTE="-1,00" />
+      </EVENT>
+      <EVENT NAME="Minnesota Twins - Colorado Rockies" SHORTNAME="Minnesot - Colorado" START_TIME="2017-05-19T01:10:00" OPEN_TILL="2017-05-19T01:10:00" EVENTID="10835867">
+        <BET ID="135551697" TYPEID="13" TYPENAME="Match" PLAYER1="Minnesota Twins " PLAYER1_SHORT="Minnesot " PLAYER2="Colorado Rockies" PLAYER2_SHORT="Colorado" TIP="1" QUOTE="1,75" />
+        <BET ID="135551698" TYPEID="13" TYPENAME="Match" PLAYER1="Minnesota Twins " PLAYER1_SHORT="Minnesot " PLAYER2="Colorado Rockies" PLAYER2_SHORT="Colorado" TIP="2" QUOTE="1,95" />
+      </EVENT>
+      <EVENT NAME="Minnesota Twins - Colorado Rockies" SHORTNAME="Minnesot - Colorado" START_TIME="2017-05-18T19:10:00" OPEN_TILL="2017-05-18T19:10:00" EVENTID="10808345">
+        <BET ID="135533723" TYPEID="13" TYPENAME="Match" PLAYER1="Minnesota Twins " PLAYER1_SHORT="Minnesot " PLAYER2="Colorado Rockies" PLAYER2_SHORT="Colorado" TIP="2" QUOTE="-1,00" />
+        <BET ID="135538226" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Minnesota Twins - Colorado Rockies" PLAYER1_SHORT="Minnesot - Colorado" PLAYER2="Over 10.5" PLAYER2_SHORT="Over 10.5" TIP=" " QUOTE="-1,00" />
+      </EVENT>
+      <EVENT NAME="Minnesota Twins - Colorado Rockies" SHORTNAME="Minnesot - Colorado" START_TIME="2017-05-19T01:10:00" OPEN_TILL="2017-05-19T01:10:00" EVENTID="10835867">
+        <BET ID="135551691" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Minnesota Twins - Colorado Rockies" PLAYER1_SHORT="Minnesot - Colorado" PLAYER2="Over 10.5" PLAYER2_SHORT="Over 10.5" TIP=" " QUOTE="2,70" />
+        <BET ID="135551692" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Minnesota Twins - Colorado Rockies" PLAYER1_SHORT="Minnesot - Colorado" PLAYER2="Over 6.5" PLAYER2_SHORT="Over 6.5" TIP=" " QUOTE="1,35" />
+      </EVENT>
+      <EVENT NAME="Minnesota Twins - Colorado Rockies" SHORTNAME="Minnesot - Colorado" START_TIME="2017-05-18T19:10:00" OPEN_TILL="2017-05-18T19:10:00" EVENTID="10808345">
+        <BET ID="135538227" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Minnesota Twins - Colorado Rockies" PLAYER1_SHORT="Minnesot - Colorado" PLAYER2="Over 6.5" PLAYER2_SHORT="Over 6.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135538228" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Minnesota Twins - Colorado Rockies" PLAYER1_SHORT="Minnesot - Colorado" PLAYER2="Over 8.5" PLAYER2_SHORT="Over 8.5" TIP=" " QUOTE="-1,00" />
+      </EVENT>
+      <EVENT NAME="Minnesota Twins - Colorado Rockies" SHORTNAME="Minnesot - Colorado" START_TIME="2017-05-19T01:10:00" OPEN_TILL="2017-05-19T01:10:00" EVENTID="10835867">
+        <BET ID="135551693" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Minnesota Twins - Colorado Rockies" PLAYER1_SHORT="Minnesot - Colorado" PLAYER2="Over 8.5" PLAYER2_SHORT="Over 8.5" TIP=" " QUOTE="1,85" />
+        <BET ID="135551694" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Minnesota Twins - Colorado Rockies" PLAYER1_SHORT="Minnesot - Colorado" PLAYER2="Under 10.5" PLAYER2_SHORT="Under 10.5" TIP=" " QUOTE="1,40" />
+      </EVENT>
+      <EVENT NAME="Minnesota Twins - Colorado Rockies" SHORTNAME="Minnesot - Colorado" START_TIME="2017-05-18T19:10:00" OPEN_TILL="2017-05-18T19:10:00" EVENTID="10808345">
+        <BET ID="135538229" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Minnesota Twins - Colorado Rockies" PLAYER1_SHORT="Minnesot - Colorado" PLAYER2="Under 10.5" PLAYER2_SHORT="Under 10.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135538230" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Minnesota Twins - Colorado Rockies" PLAYER1_SHORT="Minnesot - Colorado" PLAYER2="Under 6.5" PLAYER2_SHORT="Under 6.5" TIP=" " QUOTE="-1,00" />
+      </EVENT>
+      <EVENT NAME="Minnesota Twins - Colorado Rockies" SHORTNAME="Minnesot - Colorado" START_TIME="2017-05-19T01:10:00" OPEN_TILL="2017-05-19T01:10:00" EVENTID="10835867">
+        <BET ID="135551695" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Minnesota Twins - Colorado Rockies" PLAYER1_SHORT="Minnesot - Colorado" PLAYER2="Under 6.5" PLAYER2_SHORT="Under 6.5" TIP=" " QUOTE="2,90" />
+        <BET ID="135551696" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Minnesota Twins - Colorado Rockies" PLAYER1_SHORT="Minnesot - Colorado" PLAYER2="Under 8.5" PLAYER2_SHORT="Under 8.5" TIP=" " QUOTE="1,85" />
+      </EVENT>
+      <EVENT NAME="Minnesota Twins - Colorado Rockies" SHORTNAME="Minnesot - Colorado" START_TIME="2017-05-18T19:10:00" OPEN_TILL="2017-05-18T19:10:00" EVENTID="10808345">
+        <BET ID="135538231" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Minnesota Twins - Colorado Rockies" PLAYER1_SHORT="Minnesot - Colorado" PLAYER2="Under 8.5" PLAYER2_SHORT="Under 8.5" TIP=" " QUOTE="-1,00" />
+      </EVENT>
+      <EVENT NAME="Oakland Athletics - Boston Red Sox" SHORTNAME="Oakland  - Boston R" START_TIME="2017-05-20T03:35:00" OPEN_TILL="2017-05-20T03:35:00" EVENTID="10809920">
+        <BET ID="135538320" TYPEID="13" TYPENAME="Match" PLAYER1="Oakland Athletics " PLAYER1_SHORT="Oakland  " PLAYER2="Boston Red Sox" PLAYER2_SHORT="Boston R" TIP="1" QUOTE="-1,00" />
+      </EVENT>
+      <EVENT NAME="Oakland Athletics - Boston Red Sox" SHORTNAME="Oakland  - Boston R" START_TIME="2017-05-19T04:05:00" OPEN_TILL="2017-05-19T04:05:00" EVENTID="10835865">
+        <BET ID="135548637" TYPEID="13" TYPENAME="Match" PLAYER1="Oakland Athletics " PLAYER1_SHORT="Oakland  " PLAYER2="Boston Red Sox" PLAYER2_SHORT="Boston R" TIP="1" QUOTE="1,85" />
+        <BET ID="135548638" TYPEID="13" TYPENAME="Match" PLAYER1="Oakland Athletics " PLAYER1_SHORT="Oakland  " PLAYER2="Boston Red Sox" PLAYER2_SHORT="Boston R" TIP="2" QUOTE="1,85" />
+      </EVENT>
+      <EVENT NAME="Oakland Athletics - Boston Red Sox" SHORTNAME="Oakland  - Boston R" START_TIME="2017-05-20T03:35:00" OPEN_TILL="2017-05-20T03:35:00" EVENTID="10809920">
+        <BET ID="135538321" TYPEID="13" TYPENAME="Match" PLAYER1="Oakland Athletics " PLAYER1_SHORT="Oakland  " PLAYER2="Boston Red Sox" PLAYER2_SHORT="Boston R" TIP="2" QUOTE="-1,00" />
+        <BET ID="135540468" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Oakland Athletics - Boston Red Sox" PLAYER1_SHORT="Oakland  - Boston R" PLAYER2="Over 10.5" PLAYER2_SHORT="Over 10.5" TIP=" " QUOTE="-1,00" />
+      </EVENT>
+      <EVENT NAME="Oakland Athletics - Boston Red Sox" SHORTNAME="Oakland  - Boston R" START_TIME="2017-05-19T04:05:00" OPEN_TILL="2017-05-19T04:05:00" EVENTID="10835865">
+        <BET ID="135548631" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Oakland Athletics - Boston Red Sox" PLAYER1_SHORT="Oakland  - Boston R" PLAYER2="Over 10.5" PLAYER2_SHORT="Over 10.5" TIP=" " QUOTE="2,45" />
+        <BET ID="135548632" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Oakland Athletics - Boston Red Sox" PLAYER1_SHORT="Oakland  - Boston R" PLAYER2="Over 6.5" PLAYER2_SHORT="Over 6.5" TIP=" " QUOTE="1,30" />
+      </EVENT>
+      <EVENT NAME="Oakland Athletics - Boston Red Sox" SHORTNAME="Oakland  - Boston R" START_TIME="2017-05-20T03:35:00" OPEN_TILL="2017-05-20T03:35:00" EVENTID="10809920">
+        <BET ID="135540469" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Oakland Athletics - Boston Red Sox" PLAYER1_SHORT="Oakland  - Boston R" PLAYER2="Over 6.5" PLAYER2_SHORT="Over 6.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135540470" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Oakland Athletics - Boston Red Sox" PLAYER1_SHORT="Oakland  - Boston R" PLAYER2="Over 8.5" PLAYER2_SHORT="Over 8.5" TIP=" " QUOTE="-1,00" />
+      </EVENT>
+      <EVENT NAME="Oakland Athletics - Boston Red Sox" SHORTNAME="Oakland  - Boston R" START_TIME="2017-05-19T04:05:00" OPEN_TILL="2017-05-19T04:05:00" EVENTID="10835865">
+        <BET ID="135548633" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Oakland Athletics - Boston Red Sox" PLAYER1_SHORT="Oakland  - Boston R" PLAYER2="Over 8.5" PLAYER2_SHORT="Over 8.5" TIP=" " QUOTE="1,75" />
+        <BET ID="135548634" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Oakland Athletics - Boston Red Sox" PLAYER1_SHORT="Oakland  - Boston R" PLAYER2="Under 10.5" PLAYER2_SHORT="Under 10.5" TIP=" " QUOTE="1,50" />
+      </EVENT>
+      <EVENT NAME="Oakland Athletics - Boston Red Sox" SHORTNAME="Oakland  - Boston R" START_TIME="2017-05-20T03:35:00" OPEN_TILL="2017-05-20T03:35:00" EVENTID="10809920">
+        <BET ID="135540471" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Oakland Athletics - Boston Red Sox" PLAYER1_SHORT="Oakland  - Boston R" PLAYER2="Under 10.5" PLAYER2_SHORT="Under 10.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135540472" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Oakland Athletics - Boston Red Sox" PLAYER1_SHORT="Oakland  - Boston R" PLAYER2="Under 6.5" PLAYER2_SHORT="Under 6.5" TIP=" " QUOTE="-1,00" />
+      </EVENT>
+      <EVENT NAME="Oakland Athletics - Boston Red Sox" SHORTNAME="Oakland  - Boston R" START_TIME="2017-05-19T04:05:00" OPEN_TILL="2017-05-19T04:05:00" EVENTID="10835865">
+        <BET ID="135548635" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Oakland Athletics - Boston Red Sox" PLAYER1_SHORT="Oakland  - Boston R" PLAYER2="Under 6.5" PLAYER2_SHORT="Under 6.5" TIP=" " QUOTE="3,15" />
+        <BET ID="135548636" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Oakland Athletics - Boston Red Sox" PLAYER1_SHORT="Oakland  - Boston R" PLAYER2="Under 8.5" PLAYER2_SHORT="Under 8.5" TIP=" " QUOTE="2,00" />
+      </EVENT>
+      <EVENT NAME="Oakland Athletics - Boston Red Sox" SHORTNAME="Oakland  - Boston R" START_TIME="2017-05-20T03:35:00" OPEN_TILL="2017-05-20T03:35:00" EVENTID="10809920">
+        <BET ID="135540473" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Oakland Athletics - Boston Red Sox" PLAYER1_SHORT="Oakland  - Boston R" PLAYER2="Under 8.5" PLAYER2_SHORT="Under 8.5" TIP=" " QUOTE="-1,00" />
+      </EVENT>
+      <EVENT NAME="Pittsburgh Pirates - Washington Nationals" SHORTNAME="Pittsbur - Washingt" START_TIME="2017-05-18T18:35:00" OPEN_TILL="2017-05-18T18:35:00" EVENTID="10808328">
+        <BET ID="135533718" TYPEID="13" TYPENAME="Match" PLAYER1="Pittsburgh Pirates " PLAYER1_SHORT="Pittsbur " PLAYER2="Washington Nationals" PLAYER2_SHORT="Washingt" TIP="1" QUOTE="2,10" />
+        <BET ID="135533719" TYPEID="13" TYPENAME="Match" PLAYER1="Pittsburgh Pirates " PLAYER1_SHORT="Pittsbur " PLAYER2="Washington Nationals" PLAYER2_SHORT="Washingt" TIP="2" QUOTE="1,65" />
+        <BET ID="135538286" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Pittsburgh Pirates - Washington Nationals" PLAYER1_SHORT="Pittsbur - Washingt" PLAYER2="Over 10.5" PLAYER2_SHORT="Over 10.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135612590" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Pittsburgh Pirates - Washington Nationals" PLAYER1_SHORT="Pittsbur - Washingt" PLAYER2="Over 11.5" PLAYER2_SHORT="Over 11.5" TIP=" " QUOTE="2,90" />
+        <BET ID="135538287" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Pittsburgh Pirates - Washington Nationals" PLAYER1_SHORT="Pittsbur - Washingt" PLAYER2="Over 6.5" PLAYER2_SHORT="Over 6.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135612591" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Pittsburgh Pirates - Washington Nationals" PLAYER1_SHORT="Pittsbur - Washingt" PLAYER2="Over 7.5" PLAYER2_SHORT="Over 7.5" TIP=" " QUOTE="1,45" />
+        <BET ID="135538288" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Pittsburgh Pirates - Washington Nationals" PLAYER1_SHORT="Pittsbur - Washingt" PLAYER2="Over 8.5" PLAYER2_SHORT="Over 8.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135612592" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Pittsburgh Pirates - Washington Nationals" PLAYER1_SHORT="Pittsbur - Washingt" PLAYER2="Over 9.5" PLAYER2_SHORT="Over 9.5" TIP=" " QUOTE="2,00" />
+        <BET ID="135538289" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Pittsburgh Pirates - Washington Nationals" PLAYER1_SHORT="Pittsbur - Washingt" PLAYER2="Under 10.5" PLAYER2_SHORT="Under 10.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135612593" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Pittsburgh Pirates - Washington Nationals" PLAYER1_SHORT="Pittsbur - Washingt" PLAYER2="Under 11.5" PLAYER2_SHORT="Under 11.5" TIP=" " QUOTE="1,35" />
+        <BET ID="135538290" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Pittsburgh Pirates - Washington Nationals" PLAYER1_SHORT="Pittsbur - Washingt" PLAYER2="Under 6.5" PLAYER2_SHORT="Under 6.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135612594" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Pittsburgh Pirates - Washington Nationals" PLAYER1_SHORT="Pittsbur - Washingt" PLAYER2="Under 7.5" PLAYER2_SHORT="Under 7.5" TIP=" " QUOTE="2,50" />
+        <BET ID="135538291" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Pittsburgh Pirates - Washington Nationals" PLAYER1_SHORT="Pittsbur - Washingt" PLAYER2="Under 8.5" PLAYER2_SHORT="Under 8.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135612595" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Pittsburgh Pirates - Washington Nationals" PLAYER1_SHORT="Pittsbur - Washingt" PLAYER2="Under 9.5" PLAYER2_SHORT="Under 9.5" TIP=" " QUOTE="1,70" />
+      </EVENT>
+      <EVENT NAME="San Diego Padres - Milwaukee Brewers" SHORTNAME="San Dieg - Milwauke" START_TIME="2017-05-18T21:40:00" OPEN_TILL="2017-05-18T21:40:00" EVENTID="10808435">
+        <BET ID="135533728" TYPEID="13" TYPENAME="Match" PLAYER1="San Diego Padres " PLAYER1_SHORT="San Dieg " PLAYER2="Milwaukee Brewers" PLAYER2_SHORT="Milwauke" TIP="1" QUOTE="-1,00" />
+        <BET ID="135533729" TYPEID="13" TYPENAME="Match" PLAYER1="San Diego Padres " PLAYER1_SHORT="San Dieg " PLAYER2="Milwaukee Brewers" PLAYER2_SHORT="Milwauke" TIP="2" QUOTE="-1,00" />
+        <BET ID="135536906" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="San Diego Padres - Milwaukee Brewers" PLAYER1_SHORT="San Dieg - Milwauke" PLAYER2="Over 10.5" PLAYER2_SHORT="Over 10.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135536907" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="San Diego Padres - Milwaukee Brewers" PLAYER1_SHORT="San Dieg - Milwauke" PLAYER2="Over 6.5" PLAYER2_SHORT="Over 6.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135536908" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="San Diego Padres - Milwaukee Brewers" PLAYER1_SHORT="San Dieg - Milwauke" PLAYER2="Over 8.5" PLAYER2_SHORT="Over 8.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135536909" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="San Diego Padres - Milwaukee Brewers" PLAYER1_SHORT="San Dieg - Milwauke" PLAYER2="Under 10.5" PLAYER2_SHORT="Under 10.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135536910" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="San Diego Padres - Milwaukee Brewers" PLAYER1_SHORT="San Dieg - Milwauke" PLAYER2="Under 6.5" PLAYER2_SHORT="Under 6.5" TIP=" " QUOTE="-1,00" />
+        <BET ID="135536911" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="San Diego Padres - Milwaukee Brewers" PLAYER1_SHORT="San Dieg - Milwauke" PLAYER2="Under 8.5" PLAYER2_SHORT="Under 8.5" TIP=" " QUOTE="-1,00" />
+      </EVENT>
+      <EVENT NAME="Seattle Mariners - Chicago White Sox" SHORTNAME="Seattle  - Chicago " START_TIME="2017-05-19T04:10:00" OPEN_TILL="2017-05-19T04:10:00" EVENTID="10808501">
+        <BET ID="135538318" TYPEID="13" TYPENAME="Match" PLAYER1="Seattle Mariners " PLAYER1_SHORT="Seattle  " PLAYER2="Chicago White Sox" PLAYER2_SHORT="Chicago" TIP="1" QUOTE="1,55" />
+        <BET ID="135538319" TYPEID="13" TYPENAME="Match" PLAYER1="Seattle Mariners " PLAYER1_SHORT="Seattle  " PLAYER2="Chicago White Sox" PLAYER2_SHORT="Chicago" TIP="2" QUOTE="2,30" />
+        <BET ID="135540546" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Seattle Mariners - Chicago White Sox" PLAYER1_SHORT="Seattle  - Chicago " PLAYER2="Over 10.5" PLAYER2_SHORT="Over 10.5" TIP=" " QUOTE="2,55" />
+        <BET ID="135540547" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Seattle Mariners - Chicago White Sox" PLAYER1_SHORT="Seattle  - Chicago " PLAYER2="Over 6.5" PLAYER2_SHORT="Over 6.5" TIP=" " QUOTE="1,30" />
+        <BET ID="135540548" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Seattle Mariners - Chicago White Sox" PLAYER1_SHORT="Seattle  - Chicago " PLAYER2="Over 8.5" PLAYER2_SHORT="Over 8.5" TIP=" " QUOTE="1,75" />
+        <BET ID="135540549" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Seattle Mariners - Chicago White Sox" PLAYER1_SHORT="Seattle  - Chicago " PLAYER2="Under 10.5" PLAYER2_SHORT="Under 10.5" TIP=" " QUOTE="1,45" />
+        <BET ID="135540550" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Seattle Mariners - Chicago White Sox" PLAYER1_SHORT="Seattle  - Chicago " PLAYER2="Under 6.5" PLAYER2_SHORT="Under 6.5" TIP=" " QUOTE="3,10" />
+        <BET ID="135540551" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Seattle Mariners - Chicago White Sox" PLAYER1_SHORT="Seattle  - Chicago " PLAYER2="Under 8.5" PLAYER2_SHORT="Under 8.5" TIP=" " QUOTE="1,95" />
+      </EVENT>
+      <EVENT NAME="Texas Rangers - Philadelphia Phillies" SHORTNAME="Texas Ra - Philadel" START_TIME="2017-05-18T20:05:00" OPEN_TILL="2017-05-18T20:05:00" EVENTID="10808393">
+        <BET ID="135533724" TYPEID="13" TYPENAME="Match" PLAYER1="Texas Rangers " PLAYER1_SHORT="Texas Ra " PLAYER2="Philadelphia Phillies" PLAYER2_SHORT="Philadel" TIP="1" QUOTE="1,55" />
+        <BET ID="135533725" TYPEID="13" TYPENAME="Match" PLAYER1="Texas Rangers " PLAYER1_SHORT="Texas Ra " PLAYER2="Philadelphia Phillies" PLAYER2_SHORT="Philadel" TIP="2" QUOTE="2,25" />
+        <BET ID="135538204" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Texas Rangers - Philadelphia Phillies" PLAYER1_SHORT="Texas Ra - Philadel" PLAYER2="Over 10.5" PLAYER2_SHORT="Over 10.5" TIP=" " QUOTE="1,90" />
+        <BET ID="135538205" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Texas Rangers - Philadelphia Phillies" PLAYER1_SHORT="Texas Ra - Philadel" PLAYER2="Over 12.5" PLAYER2_SHORT="Over 12.5" TIP=" " QUOTE="2,65" />
+        <BET ID="135538206" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Texas Rangers - Philadelphia Phillies" PLAYER1_SHORT="Texas Ra - Philadel" PLAYER2="Over 8.5" PLAYER2_SHORT="Over 8.5" TIP=" " QUOTE="1,45" />
+        <BET ID="135538207" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Texas Rangers - Philadelphia Phillies" PLAYER1_SHORT="Texas Ra - Philadel" PLAYER2="Under 10.5" PLAYER2_SHORT="Under 10.5" TIP=" " QUOTE="1,80" />
+        <BET ID="135538208" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Texas Rangers - Philadelphia Phillies" PLAYER1_SHORT="Texas Ra - Philadel" PLAYER2="Under 12.5" PLAYER2_SHORT="Under 12.5" TIP=" " QUOTE="1,40" />
+        <BET ID="135538209" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Texas Rangers - Philadelphia Phillies" PLAYER1_SHORT="Texas Ra - Philadel" PLAYER2="Under 8.5" PLAYER2_SHORT="Under 8.5" TIP=" " QUOTE="2,60" />
+      </EVENT>
+    </LEAGUE>
+  </KINDOFSPORT>
+</FEED>

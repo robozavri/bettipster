@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FEED NAME="EventResults" DESCRIPTION="The event results of all events during the last 10 days displayed in the language '@LANGUAGE'. You can specify a list of sport kinds, a list of leagues, or both." LAST_REFRESH="2017-07-31T06:57:42" NEXT_REFRESH="2017-07-31T07:07:42" LANGUAGE="EN">
+  <KINDOFSPORT NAME="Basketball">
+    <LEAGUE NAME="Australia SEABL">
+      <EVENT NAME="Ballarat Miners - NW Tasmania Thunder" ID="10873939" RESULT=" " START_FROM="2017-07-30T06:00:00" />
+      <EVENT NAME="Melbourne Tigers - MT Gambier Pioneers" ID="10873940" RESULT=" " START_FROM="2017-07-30T06:00:00" />
+      <EVENT NAME="Albury Wodonga Bandits - Kilsyth Cobras" ID="10873121" RESULT=" " START_FROM="2017-07-29T12:00:00" />
+      <EVENT NAME="Frankston Blues - Ballarat Miners" ID="10873122" RESULT=" " START_FROM="2017-07-29T12:00:00" />
+      <EVENT NAME="Bendigo Braves - NW Tasmania Thunder" ID="10873123" RESULT=" " START_FROM="2017-07-29T12:00:00" />
+      <EVENT NAME="Canberra Gunners - Dandenong Rangers" ID="10873109" RESULT=" " START_FROM="2017-07-29T11:30:00" />
+      <EVENT NAME="Nunawading Spectres - Melbourne Tigers" ID="10873110" RESULT=" " START_FROM="2017-07-29T11:30:00" />
+      <EVENT NAME="Sandringham Sabres - Hobart Chargers" ID="10873064" RESULT=" " START_FROM="2017-07-29T11:00:00" />
+      <EVENT NAME="Geelong Supercats - Nunawading Spectres" ID="10871667" RESULT=" " START_FROM="2017-07-28T12:00:00" />
+      <EVENT NAME="MT Gambier Pioneers - Hobart Chargers" ID="10871668" RESULT=" " START_FROM="2017-07-28T12:00:00" />
+      <EVENT NAME="Melbourne Tigers - Frankston Blues-BA Coe" ID="10866508" RESULT=" " START_FROM="2017-07-23T07:00:00" />
+      <EVENT NAME="Kilsyth Cobras - Melbourne Tigers" ID="10865766" RESULT=" " START_FROM="2017-07-22T12:00:00" />
+      <EVENT NAME="Bendigo Braves - Ballarat Miners" ID="10865771" RESULT=" " START_FROM="2017-07-22T12:00:00" />
+      <EVENT NAME="NW Tasmania Thunder - Canberra Gunners" ID="10865721" RESULT=" " START_FROM="2017-07-22T11:30:00" />
+      <EVENT NAME="Nunawading Spectres - Albury Wodonga Bandits" ID="10865724" RESULT=" " START_FROM="2017-07-22T11:30:00" />
+      <EVENT NAME="Dandenong Rangers - Frankston Blues" ID="10865726" RESULT=" " START_FROM="2017-07-22T11:30:00" />
+      <EVENT NAME="Sandringham Sabres - Frankston Blues-BA Coe" ID="10865699" RESULT=" " START_FROM="2017-07-22T11:00:00" />
+      <EVENT NAME="Geelong Supercats - Sandringham Sabres" ID="10864733" RESULT=" " START_FROM="2017-07-21T12:00:00" />
+      <EVENT NAME="Hobart Chargers - Canberra Gunners" ID="10864734" RESULT=" " START_FROM="2017-07-21T12:00:00" />
+      <EVENT NAME="MT Gambier Pioneers - Albury Wodonga Bandits" ID="10864735" RESULT=" " START_FROM="2017-07-21T12:00:00" />
+    </LEAGUE>
+    <LEAGUE NAME="Friendlies">
+      <EVENT NAME="Ukraine - Netherlands" ID="10904475" RESULT=" " START_FROM="2017-07-29T18:15:00" />
+      <EVENT NAME="Austria - Georgia" ID="10906649" RESULT=" " START_FROM="2017-07-29T15:00:00" />
+      <EVENT NAME="Poland - Czech Republic" ID="10905480" RESULT=" " START_FROM="2017-07-28T20:00:00" />
+      <EVENT NAME="Bulgaria - FYR Macedonia" ID="10905481" RESULT=" " START_FROM="2017-07-28T17:00:00" />
+    </LEAGUE>
+    <LEAGUE NAME="U18 European Championship Men">
+      <EVENT NAME="Montenegro - Germany" ID="10882839" RESULT=" " START_FROM="2017-07-30T20:15:00" />
+      <EVENT NAME="Lithuania - Slovenia" ID="10882843" RESULT=" " START_FROM="2017-07-30T20:15:00" />
+      <EVENT NAME="Spain - Ukraine" ID="10882841" RESULT=" " START_FROM="2017-07-30T18:00:00" />
+      <EVENT NAME="Bosnia and Herzegovina - Slovakia" ID="10882851" RESULT=" " START_FROM="2017-07-30T18:00:00" />
+      <EVENT NAME="Greece - Finland" ID="10882850" RESULT=" " START_FROM="2017-07-30T15:45:00" />
+      <EVENT NAME="Italy - Serbia" ID="10882840" RESULT=" " START_FROM="2017-07-30T15:45:00" />
+      <EVENT NAME="Latvia - France" ID="10882845" RESULT=" " START_FROM="2017-07-30T13:30:00" />
+      <EVENT NAME="Turkey - Russia" ID="10882836" RESULT=" " START_FROM="2017-07-30T13:30:00" />
+      <EVENT NAME="Serbia - Spain" ID="10882842" RESULT=" " START_FROM="2017-07-29T20:15:00" />
+      <EVENT NAME="Slovakia - Latvia" ID="10882847" RESULT=" " START_FROM="2017-07-29T18:00:00" />
+      <EVENT NAME="Russia - Montenegro" ID="10882838" RESULT=" " START_FROM="2017-07-29T18:00:00" />
+      <EVENT NAME="Germany - Turkey" ID="10882837" RESULT=" " START_FROM="2017-07-29T15:45:00" />
+      <EVENT NAME="France - Bosnia and Herzegovina" ID="10882846" RESULT=" " START_FROM="2017-07-29T15:45:00" />
+      <EVENT NAME="Ukraine - Italy" ID="10882848" RESULT=" " START_FROM="2017-07-29T13:30:00" />
+      <EVENT NAME="Finland - Lithuania" ID="10882849" RESULT=" " START_FROM="2017-07-29T13:30:00" />
+    </LEAGUE>
+    <LEAGUE NAME="U19 World Championship Women">
+      <EVENT NAME="USA - Russia" ID="10907327" RESULT=" " START_FROM="2017-07-30T21:00:00" />
+      <EVENT NAME="Japan - Canada" ID="10907328" RESULT=" " START_FROM="2017-07-30T18:30:00" />
+      <EVENT NAME="Hungary - Latvia" ID="10907330" RESULT=" " START_FROM="2017-07-30T17:45:00" />
+      <EVENT NAME="France - Australia" ID="10907329" RESULT=" " START_FROM="2017-07-30T16:00:00" />
+      <EVENT NAME="Italy - Mexico" ID="10907333" RESULT=" " START_FROM="2017-07-30T15:30:00" />
+      <EVENT NAME="Spain - China" ID="10907326" RESULT=" " START_FROM="2017-07-30T13:30:00" />
+      <EVENT NAME="Puerto Rico - Mali" ID="10907331" RESULT=" " START_FROM="2017-07-30T13:15:00" />
+      <EVENT NAME="Republic of Korea - Egypt" ID="10907332" RESULT=" " START_FROM="2017-07-30T11:00:00" />
+      <EVENT NAME="USA - Japan" ID="10906158" RESULT=" " START_FROM="2017-07-29T21:00:00" />
+      <EVENT NAME="Hungary - Italy" ID="10906468" RESULT=" " START_FROM="2017-07-29T18:45:00" />
+      <EVENT NAME="Canada - Russia" ID="10906157" RESULT=" " START_FROM="2017-07-29T18:30:00" />
+      <EVENT NAME="Mexico - Latvia" ID="10906467" RESULT=" " START_FROM="2017-07-29T16:30:00" />
+      <EVENT NAME="France - Spain" ID="10906466" RESULT=" " START_FROM="2017-07-29T16:00:00" />
+      <EVENT NAME="Puerto Rico - Republic of Korea" ID="10906469" RESULT=" " START_FROM="2017-07-29T14:15:00" />
+      <EVENT NAME="China - Australia" ID="10906465" RESULT=" " START_FROM="2017-07-29T13:30:00" />
+      <EVENT NAME="Egypt - Mali" ID="10906464" RESULT=" " START_FROM="2017-07-29T12:00:00" />
+      <EVENT NAME="USA - France" ID="10903683" RESULT=" " START_FROM="2017-07-28T21:00:00" />
+      <EVENT NAME="Italy - Republic of Korea" ID="10904200" RESULT=" " START_FROM="2017-07-28T18:45:00" />
+      <EVENT NAME="Spain - Japan" ID="10903681" RESULT=" " START_FROM="2017-07-28T18:30:00" />
+      <EVENT NAME="Mali - Latvia" ID="10904199" RESULT=" " START_FROM="2017-07-28T16:30:00" />
+      <EVENT NAME="China - Canada" ID="10903680" RESULT=" " START_FROM="2017-07-28T16:00:00" />
+      <EVENT NAME="Egypt - Mexico" ID="10904198" RESULT=" " START_FROM="2017-07-28T14:15:00" />
+      <EVENT NAME="Russia - Australia" ID="10903682" RESULT=" " START_FROM="2017-07-28T13:30:00" />
+      <EVENT NAME="Puerto Rico - Hungary" ID="10904197" RESULT=" " START_FROM="2017-07-28T12:00:00" />
+      <EVENT NAME="Italy - Spain" ID="10902561" RESULT=" " START_FROM="2017-07-26T20:45:00" />
+      <EVENT NAME="China - Egypt" ID="10902558" RESULT=" " START_FROM="2017-07-26T20:15:00" />
+      <EVENT NAME="Latvia - Australia" ID="10902557" RESULT=" " START_FROM="2017-07-26T16:15:00" />
+      <EVENT NAME="France - Hungary" ID="10902554" RESULT=" " START_FROM="2017-07-26T15:45:00" />
+      <EVENT NAME="Republic of Korea - Japan" ID="10902556" RESULT=" " START_FROM="2017-07-26T13:30:00" />
+      <EVENT NAME="Canada - Latvia" ID="10880793" RESULT=" " START_FROM="2017-07-25T16:15:00" />
+      <EVENT NAME="France - Republic of Korea" ID="10880796" RESULT=" " START_FROM="2017-07-25T16:15:00" />
+      <EVENT NAME="Hungary - Australia" ID="10890834" RESULT=" " START_FROM="2017-07-25T14:00:00" />
+      <EVENT NAME="Puerto Rico - Spain" ID="10880595" RESULT=" " START_FROM="2017-07-22T20:15:00" />
+      <EVENT NAME="Latvia - France" ID="10880598" RESULT=" " START_FROM="2017-07-22T16:15:00" />
+      <EVENT NAME="Australia - Japan" ID="10880771" RESULT=" " START_FROM="2017-07-22T13:30:00" />
+    </LEAGUE>
+    <LEAGUE NAME="U20 European Championship">
+      <EVENT NAME="Greece (U20)  - Israel (U20) " ID="10899568" RESULT="65:56" START_FROM="2017-07-23T20:15:00" />
+      <EVENT NAME="Spain (U20)  - France (U20) " ID="10899569" RESULT="58:72" START_FROM="2017-07-23T18:00:00" />
+      <EVENT NAME="Lithuania (U20)  - Serbia (U20) " ID="10899572" RESULT="86:102" START_FROM="2017-07-23T17:45:00" />
+      <EVENT NAME="Slovenia (U20)  - Italy (U20) " ID="10899576" RESULT="52:69" START_FROM="2017-07-23T15:45:00" />
+      <EVENT NAME="Germany (U20)  - Iceland (U20) " ID="10899571" RESULT="79:73" START_FROM="2017-07-23T15:30:00" />
+      <EVENT NAME="Turkey (U20)  - Ukraine (U20) " ID="10899574" RESULT="85:82" START_FROM="2017-07-23T13:30:00" />
+      <EVENT NAME="Montenegro (U20)  - Sweden (U20) " ID="10899573" RESULT="65:61" START_FROM="2017-07-23T13:15:00" />
+      <EVENT NAME="Latvia (U20)  - Czech Republic (U20) " ID="10899575" RESULT="77:80" START_FROM="2017-07-23T11:00:00" />
+      <EVENT NAME="Greece (U20)  - Spain (U20) " ID="10897503" RESULT="77:56" START_FROM="2017-07-22T20:15:00" />
+      <EVENT NAME="Iceland (U20)  - Serbia (U20) " ID="10897513" RESULT="67:89" START_FROM="2017-07-22T20:15:00" />
+      <EVENT NAME="Lithuania (U20)  - Germany (U20) " ID="10897512" RESULT="85:81" START_FROM="2017-07-22T18:00:00" />
+      <EVENT NAME="Israel (U20)  - France (U20) " ID="10897502" RESULT="74:52" START_FROM="2017-07-22T18:00:00" />
+      <EVENT NAME="Italy (U20)  - Czech Republic (U20) " ID="10897509" RESULT="55:53" START_FROM="2017-07-22T15:45:00" />
+      <EVENT NAME="Sweden (U20)  - Ukraine (U20) " ID="10897511" RESULT="69:69" START_FROM="2017-07-22T15:45:00" />
+      <EVENT NAME="Montenegro (U20)  - Turkey (U20) " ID="10897609" RESULT="72:80" START_FROM="2017-07-22T13:30:00" />
+      <EVENT NAME="Slovenia (U20)  - Latvia (U20) " ID="10897610" RESULT="78:50" START_FROM="2017-07-22T13:30:00" />
+    </LEAGUE>
+    <LEAGUE NAME="WNBA ">
+      <EVENT NAME="Minnesota Lynx - Seattle Storm" ID="10874770" RESULT="93:82" START_FROM="2017-07-31T01:00:00" />
+      <EVENT NAME="Phoenix Mercury - San Antonio Silver Stars" ID="10874763" RESULT="81:64" START_FROM="2017-07-31T00:00:00" />
+      <EVENT NAME="Chicago Sky - New York Liberty" ID="10874764" RESULT="82:86" START_FROM="2017-07-31T00:00:00" />
+      <EVENT NAME="L.A. Sparks - Tulsa Shock" ID="10874752" RESULT="95:74" START_FROM="2017-07-30T23:00:00" />
+      <EVENT NAME="Atlanta Dream - Washington Mystics" ID="10874634" RESULT="70:77" START_FROM="2017-07-30T21:00:00" />
+      <EVENT NAME="Connecticut Sun - Indiana Fever" ID="10874639" RESULT="89:73" START_FROM="2017-07-30T21:00:00" />
+      <EVENT NAME="Seattle Storm - Tulsa Shock" ID="10872411" RESULT="109:93" START_FROM="2017-07-29T04:00:00" />
+      <EVENT NAME="Chicago Sky - Phoenix Mercury" ID="10872398" RESULT="80:86" START_FROM="2017-07-29T02:30:00" />
+      <EVENT NAME="San Antonio Silver Stars - L.A. Sparks" ID="10872388" RESULT="73:85" START_FROM="2017-07-29T02:00:00" />
+      <EVENT NAME="Atlanta Dream - Minnesota Lynx" ID="10872385" RESULT="80:90" START_FROM="2017-07-29T01:30:00" />
+      <EVENT NAME="Indiana Fever - New York Liberty" ID="10872362" RESULT="84:85" START_FROM="2017-07-29T01:00:00" />
+      <EVENT NAME="L.A. Sparks - Seattle Storm" ID="10868611" RESULT="68:60" START_FROM="2017-07-26T04:30:00" />
+      <EVENT NAME="Minnesota Lynx - New York Liberty" ID="10868595" RESULT="76:75" START_FROM="2017-07-26T02:00:00" />
+      <EVENT NAME="Tulsa Shock - Indiana Fever" ID="10868596" RESULT="84:82" START_FROM="2017-07-26T02:00:00" />
+      <EVENT NAME="Atlanta Dream - Phoenix Mercury" ID="10868586" RESULT="84:84" START_FROM="2017-07-26T01:00:00" />
+      <EVENT NAME="Connecticut Sun - Chicago Sky" ID="10868587" RESULT="93:72" START_FROM="2017-07-26T01:00:00" />
+      <EVENT NAME="San Antonio Silver Stars - Washington Mystics" ID="10868471" RESULT="76:85" START_FROM="2017-07-25T18:30:00" />
+      <EVENT NAME="West All Stars - East All Stars" ID="10866336" RESULT="130:121" START_FROM="2017-07-22T21:30:00" />
+    </LEAGUE>
+  </KINDOFSPORT>
+</FEED>

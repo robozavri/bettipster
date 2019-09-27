@@ -1,0 +1,3 @@
+// $config['sess_save_path'] = NULL;
+$config['sess_save_path'] = sys_get_temp_dir();  this neet on the server (es serverzea sachiro)
+development rejimis dros esec dagvchirdeba
